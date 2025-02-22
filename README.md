@@ -66,7 +66,8 @@ This section outlines the workflow of our therapy chatbot, designed to provide s
 - Upon detecting potential suicidal intent, the chatbot triggers an automated alert system.
 - An email notification is sent to a designated organization for immediate human intervention.
 
-![alt text](image-2.png)
+<img width="771" alt="image" src="https://github.com/user-attachments/assets/7bd94fe6-9ef8-47cc-a836-616aa6d431cd" />
+
 
 ### Follow-Up
 
