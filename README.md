@@ -53,21 +53,20 @@ This section outlines the workflow of our therapy chatbot, designed to provide s
 - Users begin by interacting with the chatbot through a conversational interface.
 - The chatbot utilizes natural language processing to understand and respond to user inputs.
 
-![Screenshot (117)](https://github.com/SundharessB/Therapy-ChatBot/assets/139948283/ad713001-019d-4442-b5e9-888cfc16df5d)
+![alt text](image.png)
 
 ### Assistance and Support
 - The chatbot provides empathetic responses and engages users in therapeutic conversations.
 - It offers guidance and support based on the user's expressed emotions and concerns.
 
-![Screenshot (118)](https://github.com/SundharessB/Therapy-ChatBot/assets/139948283/482ce68a-d63f-4fe6-aedf-b84e7e24528d)
+![alt text](image-1.png)
 
 ### Alert Mechanism
 
 - Upon detecting potential suicidal intent, the chatbot triggers an automated alert system.
 - An email notification is sent to a designated organization for immediate human intervention.
 
-![Screenshot (119)](https://github.com/SundharessB/Therapy-ChatBot/assets/139948283/99e59f9c-6a4e-4614-a8b7-7860bcd42b78)
-
+![alt text](image-2.png)
 
 ### Follow-Up
 
