@@ -41,7 +41,7 @@ python -m chainlit run model.py
 
 # Requirements
 
-To run this project, you will need the following packages:
+To run this project, you will need the some packages mentioned in requirements.txt
 
 Make sure to install these packages using `pip` before running the project.
 
@@ -53,13 +53,15 @@ This section outlines the workflow of our therapy chatbot, designed to provide s
 - Users begin by interacting with the chatbot through a conversational interface.
 - The chatbot utilizes natural language processing to understand and respond to user inputs.
 
-![alt text](image.png)
+<img width="960" alt="Screenshot 2025-02-22 175617" src="https://github.com/user-attachments/assets/467cbe16-58b7-43fb-a03c-4cab5f19c2c9" />
+
 
 ### Assistance and Support
 - The chatbot provides empathetic responses and engages users in therapeutic conversations.
 - It offers guidance and support based on the user's expressed emotions and concerns.
 
-![alt text](image-1.png)
+<img width="960" alt="Screenshot 2025-02-22 184915" src="https://github.com/user-attachments/assets/981c39fb-bb3f-4945-8942-05aca73142a6" />
+
 
 ### Alert Mechanism
 
@@ -89,7 +91,8 @@ The use of a vector database ensures that our chatbot responds with high accurac
 
 This workflow ensures that users receive timely and appropriate support, while also facilitating human intervention when necessary.
 
-Conclusion
+
+
 
 
 
